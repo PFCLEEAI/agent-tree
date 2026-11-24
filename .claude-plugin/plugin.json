@@ -1,0 +1,6 @@
+{
+  "name": "agent-tree",
+  "version": "0.3.0",
+  "description": "A live tree above the prompt of who is working: this session and the workers it launched, or every open project with its Codex and Claude Code sessions and their workers",
+  "types": "./types/index.d.ts"
+}

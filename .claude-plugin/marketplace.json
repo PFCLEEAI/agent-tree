@@ -1,0 +1,13 @@
+{
+  "name": "agent-tree",
+  "owner": {
+    "name": "PFCLEEAI"
+  },
+  "plugins": [
+    {
+      "name": "agent-tree",
+      "source": "./",
+      "description": "A live tree above the prompt of who is working: this session and its workers, or every open project with its sessions and their workers"
+    }
+  ]
+}
